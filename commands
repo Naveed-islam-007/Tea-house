@@ -6,7 +6,6 @@ git remote add origin https://github.com/Naveed-islam-007/Tea-house.git
 git push -u origin main
 
 
-
 git remote add origin https://github.com/Naveed-islam-007/Tea-house.git
 git branch -M main
 git push -u origin main
